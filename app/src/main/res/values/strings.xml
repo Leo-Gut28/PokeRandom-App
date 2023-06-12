@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Poke_Recycle</string>
+    <string name="pokemon_name">Pokemon Name</string>
+    <string name="pokemon_weight">Pokemon Weight</string>
+</resources>
